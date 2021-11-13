@@ -10,7 +10,7 @@
     <input type="text" name="year" />
     <input type="submit" value="submit" />
 </form>
-<?php
+
 
 
 
