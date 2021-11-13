@@ -9,7 +9,7 @@
 
 <?php
 session_start();
-$_SESSION['year'] = $date
+$_SESSION['year'] = $date;
 ?>
 
 <form method="post" action='getstats.php'>
